@@ -1,4 +1,5 @@
 # Intro to CI/CD 💻 ☁️
+## By Eduard
 
 > TLDR; This repository is a sample project demonstrating a basic continuous integration (CI) / continuous deployment (CD) setup. This project is in READ ONLY mode.
 
